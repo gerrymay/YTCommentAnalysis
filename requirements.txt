@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+wordcloud
+pysentimiento
+youtube-comment-downloader
+nltk
+streamlit
+transformers
